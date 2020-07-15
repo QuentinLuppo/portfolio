@@ -25,6 +25,12 @@
 <div class="wrapper">
     <!-- Sidebar Holder -->
     <nav id="sidebar" class="">
+    <div>
+        <center>
+            <img class="fit-picture profile-picture" src="./img/pp.png" alt="quentin luppo profile picture">
+        </center>
+    </div>
+
         <div class="sidebar-header">
             <h3>Quentin Luppo</h3>
         </div>
@@ -62,7 +68,7 @@
     <!-- Page Content Holder -->
     <div id="content">
         <section class="sec1">
-            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <nav class="navbar navbar-expand-lg navbar-light">
                 <div class="container-fluid">
                     <button type="button" id="sidebarCollapse" class="navbar-btn">
                         <span></span>
@@ -72,10 +78,9 @@
                 </div>
             </nav>
             <div class="title-placement vertical-align">
-                <h1 class="deepshadow h1-custom">Quentin Luppo</h1>
-                <div class="divider light"></div>
-                <h2 class="deepshadow h2-custom">Ingénieur Logiciel</h2>
-                <h2 class="deepshadow h2-custom">Apprenti Ingénieur Informatique</h2>
+                <h1 class="deepshadow title-custom">Quentin Luppo</h1>
+                <h2 class="deepshadow title-custom">Ingénieur Logiciel</h2>
+                <h2 class="deepshadow title-custom">Apprenti Ingénieur Informatique</h2>
             </div>
         </section>
     </div>

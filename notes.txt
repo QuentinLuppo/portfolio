@@ -1,0 +1,1 @@
+left bar tu dois la découper et faire un dossier incudes dans tes views pour l'appeler sur toutes les pages et avoir 1 fichier commun ( pluys simple a modifier)
