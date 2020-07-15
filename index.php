@@ -1,3 +1,3 @@
 <?php
-include_once("view/sidebar.php");
+include_once("view/cv.php");
 
